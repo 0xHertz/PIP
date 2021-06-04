@@ -1,0 +1,2 @@
+﻿  VideoProcDemo_OpenCV.cpp
+F:\pic-in-pic-main\VideoProcDemo_OpenCV.cpp : fatal error C1107: 未能找到程序集“Windows.winmd”: 请使用 /AI 或通过设置 LIBPATH 环境变量指定程序集搜索路径
